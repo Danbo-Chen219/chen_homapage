@@ -35,8 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-      
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a Phd student at AEDE of Ohio State University and a member of CEADs team. I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please feel free to reach out to collaborate 😃
     design:
