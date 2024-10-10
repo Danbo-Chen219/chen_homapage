@@ -3,7 +3,7 @@ title: Embodied CO2 emissions of equity portfolios for Chinese asset managers
 authors:
 - Jinglei Wang
 - Zengkai Zhang
-- Danbo Chen
+- admin
 - Dabo Guan
 date: '2024-06-01'
 publishDate: '2024-10-10T10:24:29.900952Z'

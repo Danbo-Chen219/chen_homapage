@@ -3,7 +3,7 @@ title: 'Assessing the influence of environmental regulation on carbon sequestrat
   in China: Towards a sustainable future'
 authors:
 - Lei Chen
-- Danbo Chen
+- admin
 - Nianjiao Gong
 - Jiahong Qin
 date: '2024-01-01'
