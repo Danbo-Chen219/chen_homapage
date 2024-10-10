@@ -156,7 +156,7 @@ languages:
 awards:
   - title: Data Analysis with Python
     url: https://www.coursera.org/account/accomplishments/certificate/83FTBTFZHNAS
-    date: '2023-1-25'
+    date: '2023-01-25'
     awarder: Coursera
     icon: coursera
     summary: |
