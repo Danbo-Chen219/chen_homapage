@@ -11,7 +11,7 @@ publishDate: '2024-10-10T12:54:47.003941Z'
 publication_types:
 - article-journal
 publication: '*Communications Earth & Environment*'
-doi: 10.1038/s43247-023-00926-y
+doi: https://doi.org/10.1038/s43247-023-00926-y
 abstract: Under the dual carbon goals in China, the transition to a net-zero carbon
   economy requires massive amounts of capital, which must be provided and facilitated
   by financial institutions. Yet, there are no unified, publicly available disclosures

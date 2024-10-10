@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Embodied carbon emission in the industrial equity portfolios of the leading global asset managers / working paper"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2014-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Investors, hidden at the top of the global supply chain, are the key bene ciaries of the entire chain. However, they appear to generate only a small number of direct emissions which may obscure the reality that they should undertake more climate responsibility. No systematic accounting and disclosure of carbon emissions are incorporated in the nancial institution assets. Here, we examine the embodied carbon emissions of the 380 leading global asset managers, using industrial equity portfolios as an example, and show that the embodied carbon emissions of these companies' industrial portfolios have reached 636.97–875.88 MtCO2-eq, and are expected to rising rapidly in 2019. Over 90% of the nanced carbon emissions were embodied in the industrial equity portfolios of the top 20 asset managers in North America and Europe. Meanwhile, weighted average carbon intensity (WACI) and carbon emission to revenue (CETR), re ecting institutions' carbon exposure and e ciency, have not decline tremendously over the last decades, despite divestment only occurring in a few typical high carbon-intensive industries. Moreover, the leading investee companies in the emissions embodied in the industrial equity portfolio were highly contributed by the leading investee companies in high carbon-intensive sectors. In the study, we propose an accounting framework that integrates macro-sector emissions data with micro-nancial data to attribute carbon emissions embodied in equity investment activities to investors, which can inform targeted and effective climate reporting and action. Some large asset managers, for instance, play a pivotal role in portfolio.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- climate economics
 
 featured: true
 
@@ -31,7 +31,7 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/Danbo-Chen219'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
