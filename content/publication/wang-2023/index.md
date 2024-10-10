@@ -2,7 +2,7 @@
 title: Carbon footprints of the equity portfolios of Chinese fund firms
 authors:
 - Jinglei Wang
-- Dabo Guan
+- admin
 - Zengkai Zhang
 - Danbo Chen
 - Xiang Yu

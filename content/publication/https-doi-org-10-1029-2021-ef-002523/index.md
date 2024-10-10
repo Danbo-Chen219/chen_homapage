@@ -2,7 +2,7 @@
 title: Assessing the Socio-Economic Effects of Carbon Capture, Utility and Storage
   Investment From the Perspective of Carbon Neutrality in China
 authors:
-- Danbo Chen
+- admin
 - Mengfei Jiang
 date: '2022-01-01'
 publishDate: '2024-09-29T13:07:08.879521Z'
