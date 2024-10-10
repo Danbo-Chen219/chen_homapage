@@ -1,8 +1,8 @@
 ---
-title: "Embodied carbon emission in the industrial equity portfolios of the leading global asset managers / working paper"
+title: "Embodied carbon emission in the industrial equity portfolios of the leading global asset managers/ working paper"
 authors:
 - admin
-date: "2014-04-07T00:00:00Z"
+date: "2023-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
