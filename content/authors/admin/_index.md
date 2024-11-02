@@ -52,7 +52,7 @@ interests:
   - Macroeconomics
 
 education:
-  - area: PhD Development Economics
+  - area: PhD Applied Economics
     institution: The Ohio State University
     date_start: 2024-07-01
     date_end: 2027-12-31
@@ -183,4 +183,5 @@ awards:
 
 ## About Me
 
-Danbo(Kirby) Chen is a Ph.D student at Ohio State University. Her research interests include green finance in terms of carbon footprint of assset portfolios, decision making under uncertainty.
+Danbo(Kirby) Chen is a Ph.D student at Ohio State University. Her research interests include computational economics, development economics, green finance, and dynamic stochastic integrated modeling.
+
