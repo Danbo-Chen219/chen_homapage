@@ -47,6 +47,7 @@ profiles:
     url: https://orcid.org/0000-0002-5760-4951
 
 interests:
+  - Green Finance
   - Climate Risk/Climate Economics
   - Computational Economics
   - Macroeconomics
